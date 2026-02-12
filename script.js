@@ -21,8 +21,8 @@ const projects = [
         description: "A personal portfolio website showcasing skills, projects, and certifications.",
         tags: ["HTML", "CSS", "JavaScript"],
         icon: "fa-user",
-        demo: "#",
-        code: "https://raghul692.github.io/raghulraja.github.io/"
+        demo: "https://raghul692.github.io/raghulraja.github.io/",
+        code: ""
     },
     {
         title: "Student Management System",
@@ -354,3 +354,4 @@ function copyEmail() {
         console.error('Failed to copy email:', err);
     });
 }
+
