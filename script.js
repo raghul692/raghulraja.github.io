@@ -22,7 +22,7 @@ const projects = [
         tags: ["HTML", "CSS", "JavaScript"],
         icon: "fa-user",
         demo: "#",
-        code: "#"
+        code: "https://raghul692.github.io/raghulraja.github.io/"
     },
     {
         title: "Student Management System",
