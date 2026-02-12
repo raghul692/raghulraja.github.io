@@ -22,7 +22,7 @@ const projects = [
         tags: ["HTML", "CSS", "JavaScript"],
         icon: "fa-user",
         demo: "https://raghul692.github.io/raghulraja.github.io/",
-        code: ""
+        code: "https://github.com/raghul692/raghulraja.github.io.git"
     },
     {
         title: "Student Management System",
@@ -354,4 +354,5 @@ function copyEmail() {
         console.error('Failed to copy email:', err);
     });
 }
+
 
